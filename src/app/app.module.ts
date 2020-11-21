@@ -8,6 +8,7 @@ import { Ctg2Component } from './ctg2/ctg2.component';
 import { Ctg3Component } from './ctg3/ctg3.component';
 import { Ctg4Component } from './ctg4/ctg4.component';
 import { CartComponent } from './cart/cart.component';
+import { DataService } from './data.service';
 
 @NgModule({
   declarations: [
